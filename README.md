@@ -2,6 +2,8 @@
 
 ## Examples
 
+## Features
+
 ## Packages
 
 ### Platinum
